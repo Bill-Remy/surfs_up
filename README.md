@@ -15,7 +15,7 @@ In order to answer W. Avy's question we sampled the weather database and extract
 - The average temperature for June was 75 degrees and for December was 75 degrees.  
 - The difference of of 4 degrees was a 5% drop but would not likely feel different to visitors.  
 - The temperature variation for both months is very close at 3.7 degrees for December compared to 3.2 degrees for June.  The total range of temperatures in December is 17 degrees versus 21 degrees for June.  
-- The low temperature for December was 56 degrees which would feel noticeably cooler to visitors than the June low of 64 dewgrees.
+- The low temperature for December was 56 degrees which would feel noticeably cooler to visitors than the June low of 64 degrees.
 # Summary and Recommendations
 In general visitors in December or June will not experience significant temperature differences.  While December is slightly cooler and will have a few days where the temperature is measureably less than June, it is a small number of occurrences.  
 
