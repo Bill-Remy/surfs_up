@@ -19,7 +19,7 @@ In order to answer W. Avy's question we sampled the weather database and extract
 # Summary and Recommendations
 In general visitors in December or June will not experience significant temperature differences.  While December is slightly cooler and will have a few days where the temperature is measureably less than June, it is a small number of occurrences.  
 
-As a recommendation, Wavy should consider reviewing the rainfall data for December and June.  While the temperatures are not significantlyt different, the other deterrent to visitors would be rain.  If either of the months have a higher frequency or volume of rain the busienss could suffer.  An initial look at the rain data is provided below.
+As a recommendation, W. Avy should consider reviewing the rainfall data for December and June.  While the temperatures are not significantlyt different, the other deterrent to visitors would be rain.  If either of the months have a higher frequency or volume of rain the busienss could suffer.  An initial look at the rain data is provided below.
 <figure>
 <p>
 <img src="June_rain.png" alt="June_rain.png" width="200"/> 
@@ -29,4 +29,4 @@ As a recommendation, Wavy should consider reviewing the rainfall data for Decemb
 <p>
 <figure>
   
-As a final element of analysis, W Avy should consider looking average high and low values for rain and temperature in a time series by month.  This view could be presented as line charts over time or with additional queries presented as a series box plots by month.
+As a final element of analysis, W. Avy should consider looking average high and low values for rain and temperature in a time series by month.  This view could be presented as line charts over time or with additional queries presented as a series box plots by month.
