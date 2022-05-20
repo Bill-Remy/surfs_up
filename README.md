@@ -25,6 +25,6 @@ As a recommendation, Wavy should consider reviewing the rainfall data for Decemb
 <img src="June_rain.png" alt="June_rain.png" width="200"/> 
 <img src="Dec_rain.png" alt="Dec_rain.png" width="200" />
   <img src="Rain_Histogram.png" alt"Rain_Histogram.png" width="400" length="400" />
-<figcaption align = "center"><b>Fig.1 -June & December Rainfall Statistics and Histogram</b></figcaption>
+<figcaption align = "center"><b>Fig.2 -June & December Rainfall Statistics and Histogram</b></figcaption>
 <p>
 <figure>
