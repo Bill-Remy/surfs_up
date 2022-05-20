@@ -7,8 +7,8 @@ In order to answer W. Avy's question we sampled the weather database and extract
 <p>
 <img src="June_Temps.png" alt="June_Temps.png" width="200"/> 
 <img src="Dec_Temps.png" alt="Dec_Temps.png" width="200" />
-  <img src="Temp_Histogram.png" alt"Temp_Histogram.png" width="300" length="300" />
-<figcaption align = "center"><b>Fig.1 -June & December Temperature Statistics</b></figcaption>
+  <img src="Temp_Histogram.png" alt"Temp_Histogram.png" width="400" length="400" />
+<figcaption align = "center"><b>Fig.1 -June & December Temperature Statistics and Histogram</b></figcaption>
 <p>
 <figure>
 
