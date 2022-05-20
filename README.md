@@ -7,6 +7,6 @@ In order to answer W. Avy's question we sampled the weather database and extract
 <p>
 <img src="June_Temps.png" alt="June_Temps.png" width="200"/> 
 <img src="Dec_Temps.png" alt="Dec_Temps.png" width="200" />
-<img src="Temp_Historgram.png" alt"Temp_Historgram.png" width="300"/>
+<img src="Temp_Historgram.png" alt"Temp_Historgram.png" width="500"/>
 <figcaption align = "center"><b>Fig.1 -June & December Temperature Statistics</b></figcaption>
 <figure>
