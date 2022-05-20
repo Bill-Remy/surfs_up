@@ -9,4 +9,8 @@ In order to answer W. Avy's question we sampled the weather database and extract
 <img src="Dec_Temps.png" alt="Dec_Temps.png" width="200" />
 <img src="Temp_Historgram.png" alt"Temp_Historgram.png" width="300" length="300" />
 <figcaption align = "center"><b>Fig.1 -June & December Temperature Statistics</b></figcaption>
+<p>
 <figure>
+
+<figure>
+<img src="Temp_Historgram.png" alt"Temp_Historgram.png" width="300" length="300" />
