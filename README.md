@@ -4,6 +4,6 @@ W. Avy requested and analysis of temperatures in Oahu, Hawaii for the months of 
 # Results for Analysis
 In order to answer W. Avy's question we sampled the weather database and extracted temperature observations for June and December from 2010 to 2016.  The statistical summary of results for both months are shown below.
 <figure>
-<img src="June_Temps.png" alt="June_Temps.png">
+<img src="June_Temps.png" alt="June_Temps.png">  <img src="Dec_Temps.png" alt="Dec_Temps.png">
 <figcaption align = "center"><b>Fig.1 -June Temperature Statistics</b></figcaption>
 <figure>
