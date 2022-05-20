@@ -11,6 +11,9 @@ In order to answer W. Avy's question we sampled the weather database and extract
 <figcaption align = "center"><b>Fig.1 -June & December Temperature Statistics and Histogram</b></figcaption>
 <p>
 <figure>
-
+The temperatures for the two months varied slightly. 
+- The average temperature for June was 75 degrees and for December was 74 degrees.  
+- The difference of of 4 degrees was a 5% drop but would not likely feel different to visitors.  
+- The temperature variation for both months is very close at 3.7 degrees for December compared to 3.2 degrees for June.  The total range of temperatures in December is 17 degrees versus 21 degrees for June.  
 
 
