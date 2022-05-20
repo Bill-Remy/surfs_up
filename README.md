@@ -6,6 +6,6 @@ In order to answer W. Avy's question we sampled the weather database and extract
 
 <img src="June_Temps.png" alt="June_Temps.png">
 <p>
-  <p align = "center">
+  <p align = "left">
 Fig.1 - June Temperature Statistics
 </p>
