@@ -1,4 +1,4 @@
-# Surfs Up Westher Analysis
+# Surfs Up Weather Analysis
 # Purpose of Analysis
 W. Avy requested and analysis of temperatures in Oahu, Hawaii for the months of June and December.  He wants to understand how the temperature varies between summer and winter to see if the Surf & Ice Cream shop is viable year round.
 # Results for Analysis
