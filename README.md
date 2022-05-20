@@ -28,3 +28,5 @@ As a recommendation, Wavy should consider reviewing the rainfall data for Decemb
 <figcaption align = "center"><b>Fig.2 -June & December Rainfall Statistics and Histogram</b></figcaption>
 <p>
 <figure>
+  
+As a final element of analysis, W. Avy should consider looking average high and low values for rain and temperature in a time series by month.  This view could be presented as line charts over time or with additional queries presented as a series box plots by month.
